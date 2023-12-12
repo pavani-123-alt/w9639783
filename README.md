@@ -1,2 +1,2 @@
 # pavani
- upload the local repo
+ upload the local repo on git hub account 1
