@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ExpensePal</string>
+    <string name="Splash">Splash</string>
+    <string name="login">Login</string>
+    <string name="registered">Registration</string>
+    <string name="home">Home</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="search">Search</string>
+    <string name="settings_icon">Setting</string>
+    <string name="web_client_id">544566270015-evied2rt5t0h9b7i6aa3lipm8h1j9t1d.apps.googleusercontent.com</string>
+    <string name="label_back">Back</string>
+    <string name="update">Update</string>
+    <string name="reset">Reset Password</string>
+    <string name="ForgotPassword">ForgotPassword</string>
+    <string name="confirm_password">Confirm Password</string>
+</resources>
